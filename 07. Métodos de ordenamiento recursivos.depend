@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1664682385 source:c:\users\daniel\documents\actividad 02 anidación estructural\07. métodos de ordenamiento recursivos\07. métodos de ordenamiento recursivos\stack.cpp
+
+1664692333 source:c:\users\daniel\documents\actividad 02 anidación estructural\07. métodos de ordenamiento recursivos\07. métodos de ordenamiento recursivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<chrono>
+	<functional>
+	"list.hpp"
+
+1664693988 c:\users\daniel\documents\actividad 02 anidación estructural\07. métodos de ordenamiento recursivos\07. métodos de ordenamiento recursivos\list.hpp
+	<iostream>
+	<string>
+	"list.hpp"
+	"listexception.hpp"
+
+1664692297 source:c:\users\daniel\documents\actividad 02 anidación estructural\07. métodos de ordenamiento recursivos\07. métodos de ordenamiento recursivos\list.cpp
+
+1664688963 c:\users\daniel\documents\actividad 02 anidación estructural\07. métodos de ordenamiento recursivos\07. métodos de ordenamiento recursivos\listexception.hpp
+	<string>
+	<exception>
+
